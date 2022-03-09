@@ -1,2 +1,0 @@
-require 'count_words'
-
